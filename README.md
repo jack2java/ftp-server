@@ -1,5 +1,7 @@
 FTP Server with anonymous user only
 
+Tested in windows 11, Linux Linux Mint 22.3 and Raspberry Pi
+
 how to use it:
 
 
